@@ -2,3 +2,5 @@ phpunit.xml
 tests/log
 vendor
 composer.phar
+
+tests/_output/*

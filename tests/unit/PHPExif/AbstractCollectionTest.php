@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\PHPExif\Exception;
+namespace Tests\Unit\PHPExif\Exception;
 
 use Mockery as m;
 use PHPExif\AbstractCollection;

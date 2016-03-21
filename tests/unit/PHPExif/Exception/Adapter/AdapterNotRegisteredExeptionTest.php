@@ -1,9 +1,9 @@
 <?php
 
-namespace Tests\PHPExif\Exception\Adapter;
+namespace Tests\Unit\PHPExif\Exception\Adapter;
 
 use PHPExif\Exception\Adapter\AdapterNotRegisteredException;
-use Tests\PHPExif\Exception\BaseExceptionTest;
+use Tests\Unit\PHPExif\Exception\BaseExceptionTest;
 
 /**
  * @coversDefaultClass \PHPExif\Exception\Adapter\AdapterNotRegisteredException

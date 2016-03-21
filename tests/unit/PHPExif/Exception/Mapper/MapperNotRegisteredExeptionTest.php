@@ -1,9 +1,9 @@
 <?php
 
-namespace Tests\PHPExif\Exception\Collection;
+namespace Tests\Unit\PHPExif\Exception\Collection;
 
 use PHPExif\Exception\Mapper\MapperNotRegisteredException;
-use Tests\PHPExif\Exception\BaseExceptionTest;
+use Tests\Unit\PHPExif\Exception\BaseExceptionTest;
 
 /**
  * @coversDefaultClass \PHPExif\Exception\Mapper\MapperNotRegisteredException

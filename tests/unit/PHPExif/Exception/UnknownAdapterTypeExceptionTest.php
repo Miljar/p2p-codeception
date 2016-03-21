@@ -1,9 +1,9 @@
 <?php
 
-namespace Tests\PHPExif\Exception;
+namespace Tests\Unit\PHPExif\Exception;
 
 use PHPExif\Exception\UnknownAdapterTypeException;
-use Tests\PHPExif\Exception\BaseExceptionTest;
+use Tests\Unit\PHPExif\Exception\BaseExceptionTest;
 
 /**
  * @coversDefaultClass \PHPExif\Exception\UnknownAdapterTypeException

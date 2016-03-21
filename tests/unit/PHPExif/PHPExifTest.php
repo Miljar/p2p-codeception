@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\PHPExif;
+namespace Tests\Unit\PHPExif;
 
 use PHPExif\Adapter\AdapterCollection;
 use PHPExif\PHPExif;

@@ -29,6 +29,6 @@
         "psr-4": { "PHPExif\\": "src/PHPExif/" }
     },
     "autoload-dev": {
-        "psr-4": { "Tests\\PHPExif\\": "tests/unit/PHPExif/" }
+        "psr-4": { "Tests\\Unit\\PHPExif\\": "tests/unit/PHPExif/" }
     }
 }

@@ -5,7 +5,7 @@
 
     <testsuites>
         <testsuite name="PHPExif">
-            <directory>tests</directory>
+            <directory>tests/unit</directory>
         </testsuite>
     </testsuites>
 
@@ -23,12 +23,12 @@
 
     <logging>
         <log type="coverage-html"
-            target="tests/log/report"
+            target="build/log/report"
             charset="UTF-8"
             yui="true"
             highlight="true"
             lowUpperBound="40"
             highLowerBound="70" />
-        <log type="testdox-html" target="tests/log/testdox.html" />
+        <log type="testdox-html" target="build/log/testdox.html" />
     </logging>
 </phpunit>

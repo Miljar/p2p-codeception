@@ -4,3 +4,5 @@ vendor
 composer.phar
 
 tests/_output/*
+build/*
+!build/.gitkeep

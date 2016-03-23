@@ -37,5 +37,5 @@ $this->assertTrue(
 
 $this->assertEquals(
     'f/8.0',
-    $data->getExif()->getAperture()
+    $data->getExif()->getAperture()->__toString()
 );
